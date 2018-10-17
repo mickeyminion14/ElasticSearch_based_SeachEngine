@@ -1,0 +1,18 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "This repository is automatically synced with the main [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) repository to provide lightweight CSS only version of Semantic UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "elasticsearch": "^15.1.1",
+    "express": "^4.16.4",
+    "get-json": "^1.0.1",
+    "nodemon": "^1.18.4"
+  }
+}
